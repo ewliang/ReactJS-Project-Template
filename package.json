@@ -1,0 +1,57 @@
+{
+  "name": "reactjs-project-template",
+  "version": "1.0.0",
+  "description": "A React.js project template created using Webpack without relying on React.js' CLI command of \"create-react-app\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewliang/ReactJS-Project-Template.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react.js",
+    "webpack",
+    "reactjs",
+    "webpack",
+    "react.js",
+    "webpack",
+    "reactjs",
+    "template",
+    "reactjs",
+    "project",
+    "template",
+    "reactjs",
+    "boilerplate"
+  ],
+  "author": "Eric Liang <ericwliang94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ewliang/ReactJS-Project-Template/issues"
+  },
+  "homepage": "https://github.com/ewliang/ReactJS-Project-Template#readme",
+  "devDependencies": {
+      "@babel/core": "^7.1.2",
+      "@babel/preset-env": "^7.1.0",
+      "babel-loader": "^8.0.4",
+      "babel-polyfill": "^6.26.0",
+      "css-loader": "^1.0.0",
+      "file-loader": "^2.0.0",
+      "html-webpack-plugin": "^3.2.0",
+      "style-loader": "^0.23.1",
+      "webpack": "^4.20.2",
+      "webpack-cli": "^3.1.2",
+      "webpack-dev-server": "^3.1.9"
+    },
+    "dependencies": {
+      "@babel/preset-react": "^7.0.0",
+      "axios": "^0.18.0",
+      "moment": "^2.22.2",
+      "normalize.css": "^8.0.0",
+      "react": "^16.5.2",
+      "react-dom": "^16.5.2",
+      "react-router-dom": "^4.3.1"
+    }
+}
